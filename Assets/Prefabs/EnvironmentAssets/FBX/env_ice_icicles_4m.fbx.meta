@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: b9d2e492f3b2c8049a0a3f7a85b9ba6b
+timeCreated: 1441337321
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: env_ice_icicles_geo_01
+    100004: env_ice_icicles_geo_010
+    100006: env_ice_icicles_geo_011
+    100008: env_ice_icicles_geo_012
+    100010: env_ice_icicles_geo_013
+    100012: env_ice_icicles_geo_014
+    100014: env_ice_icicles_geo_015
+    100016: env_ice_icicles_geo_016
+    100018: env_ice_icicles_geo_017
+    100020: env_ice_icicles_geo_018
+    100022: env_ice_icicles_geo_019
+    100024: env_ice_icicles_geo_02
+    100026: env_ice_icicles_geo_020
+    100028: env_ice_icicles_geo_021
+    100030: env_ice_icicles_geo_022
+    100032: env_ice_icicles_geo_023
+    100034: env_ice_icicles_geo_024
+    100036: env_ice_icicles_geo_03
+    100038: env_ice_icicles_geo_04
+    100040: env_ice_icicles_geo_05
+    100042: env_ice_icicles_geo_06
+    100044: env_ice_icicles_geo_07
+    100046: env_ice_icicles_geo_08
+    100048: env_ice_icicles_geo_09
+    100050: env_ice_icicles_4m_geo
+    400000: //RootNode
+    400002: env_ice_icicles_geo_01
+    400004: env_ice_icicles_geo_010
+    400006: env_ice_icicles_geo_011
+    400008: env_ice_icicles_geo_012
+    400010: env_ice_icicles_geo_013
+    400012: env_ice_icicles_geo_014
+    400014: env_ice_icicles_geo_015
+    400016: env_ice_icicles_geo_016
+    400018: env_ice_icicles_geo_017
+    400020: env_ice_icicles_geo_018
+    400022: env_ice_icicles_geo_019
+    400024: env_ice_icicles_geo_02
+    400026: env_ice_icicles_geo_020
+    400028: env_ice_icicles_geo_021
+    400030: env_ice_icicles_geo_022
+    400032: env_ice_icicles_geo_023
+    400034: env_ice_icicles_geo_024
+    400036: env_ice_icicles_geo_03
+    400038: env_ice_icicles_geo_04
+    400040: env_ice_icicles_geo_05
+    400042: env_ice_icicles_geo_06
+    400044: env_ice_icicles_geo_07
+    400046: env_ice_icicles_geo_08
+    400048: env_ice_icicles_geo_09
+    400050: env_ice_icicles_4m_geo
+    2300000: env_ice_icicles_geo_01
+    2300002: env_ice_icicles_geo_010
+    2300004: env_ice_icicles_geo_011
+    2300006: env_ice_icicles_geo_012
+    2300008: env_ice_icicles_geo_013
+    2300010: env_ice_icicles_geo_014
+    2300012: env_ice_icicles_geo_015
+    2300014: env_ice_icicles_geo_016
+    2300016: env_ice_icicles_geo_017
+    2300018: env_ice_icicles_geo_018
+    2300020: env_ice_icicles_geo_019
+    2300022: env_ice_icicles_geo_02
+    2300024: env_ice_icicles_geo_020
+    2300026: env_ice_icicles_geo_021
+    2300028: env_ice_icicles_geo_022
+    2300030: env_ice_icicles_geo_023
+    2300032: env_ice_icicles_geo_024
+    2300034: env_ice_icicles_geo_03
+    2300036: env_ice_icicles_geo_04
+    2300038: env_ice_icicles_geo_05
+    2300040: env_ice_icicles_geo_06
+    2300042: env_ice_icicles_geo_07
+    2300044: env_ice_icicles_geo_08
+    2300046: env_ice_icicles_geo_09
+    2300048: env_ice_icicles_4m_geo
+    3300000: env_ice_icicles_geo_01
+    3300002: env_ice_icicles_geo_010
+    3300004: env_ice_icicles_geo_011
+    3300006: env_ice_icicles_geo_012
+    3300008: env_ice_icicles_geo_013
+    3300010: env_ice_icicles_geo_014
+    3300012: env_ice_icicles_geo_015
+    3300014: env_ice_icicles_geo_016
+    3300016: env_ice_icicles_geo_017
+    3300018: env_ice_icicles_geo_018
+    3300020: env_ice_icicles_geo_019
+    3300022: env_ice_icicles_geo_02
+    3300024: env_ice_icicles_geo_020
+    3300026: env_ice_icicles_geo_021
+    3300028: env_ice_icicles_geo_022
+    3300030: env_ice_icicles_geo_023
+    3300032: env_ice_icicles_geo_024
+    3300034: env_ice_icicles_geo_03
+    3300036: env_ice_icicles_geo_04
+    3300038: env_ice_icicles_geo_05
+    3300040: env_ice_icicles_geo_06
+    3300042: env_ice_icicles_geo_07
+    3300044: env_ice_icicles_geo_08
+    3300046: env_ice_icicles_geo_09
+    3300048: env_ice_icicles_4m_geo
+    4300000: env_ice_icicles_geo_01
+    4300002: env_ice_icicles_geo_03
+    4300004: env_ice_icicles_geo_05
+    4300006: env_ice_icicles_geo_06
+    4300008: env_ice_icicles_geo_012
+    4300010: env_ice_icicles_geo_011
+    4300012: env_ice_icicles_geo_010
+    4300014: env_ice_icicles_geo_09
+    4300016: env_ice_icicles_geo_08
+    4300018: env_ice_icicles_geo_07
+    4300020: env_ice_icicles_geo_018
+    4300022: env_ice_icicles_geo_017
+    4300024: env_ice_icicles_geo_016
+    4300026: env_ice_icicles_geo_015
+    4300028: env_ice_icicles_geo_014
+    4300030: env_ice_icicles_geo_013
+    4300032: env_ice_icicles_geo_024
+    4300034: env_ice_icicles_geo_023
+    4300036: env_ice_icicles_geo_022
+    4300038: env_ice_icicles_geo_021
+    4300040: env_ice_icicles_geo_020
+    4300042: env_ice_icicles_geo_019
+    4300044: env_ice_icicles_geo_04
+    4300046: env_ice_icicles_geo_02
+    4300048: env_ice_icicles_4m_geo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
